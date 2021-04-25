@@ -1,0 +1,61 @@
+body {
+    background-color: plum;
+}
+
+.css-classes{
+    background-color: lightblue;
+    width: auto;
+    height: auto;
+}
+
+.css-classes h1{
+    background-color: lightcyan;
+    width: auto;
+    height: auto;
+}
+
+#number-one {
+    font-size: 18px;
+    width: auto;
+    height: auto;
+}
+
+.margins-padding {
+    border: 2px solid pink;
+    margin-top: 50px;
+    margin-right: 250px;
+    margin-bottom: 200px;
+    margin-left: 200px;
+    padding: 20px 20px 20px 40px;
+    width: auto;
+    height: auto;
+}
+
+p{
+    font-family: Arial;
+    background-color: lightblue;
+    width: auto;
+    height: auto;
+    background-size: auto;
+    text-align: center;
+}
+
+h1{
+    font-size: 50px;
+    width: auto;
+    height: auto;
+    text-align: center;
+}
+
+h2{
+    font-size: 30px;
+    background-color: lightcyan;
+    width: auto;
+    height: auto;
+    border: 5px solid lightpink;
+    background-size: auto;
+}
+
+body {
+    background-image:url("../../HTMLCSSPreWork/assets/Monet\ Gardens.jpg");
+}
